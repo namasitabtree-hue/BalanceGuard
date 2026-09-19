@@ -4,4 +4,4 @@ Download the newest Android APK from [Releases](https://github.com/namasitabtree
 
 Install a newer APK over an earlier Balance Guard beta to keep local app data. Do not uninstall the existing app first. Android may ask you to allow installation from your browser.
 
-The five most recent APK releases will remain available. After a new APK and its in-app update link are verified, older releases beyond the latest five will be removed.
+The five most recent APK release versions remain available. A GitHub workflow removes older APK files when a new release is published; its release notes and tag remain visible.
